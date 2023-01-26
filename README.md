@@ -1,2 +1,2 @@
-# one_piece_scan_twitter
-Send OnePiece Scans on twitter automatically.
+# One Piece on Twitter
+This is a Twitter bot that automatically tweets links to the latest pages of manga every week. Please note that tweeting copyrighted manga material is against Twitter's terms of service and use of this bot is at your own risk. The bot is built using Python and the Tweepy library for interacting with the Twitter API. It uses web scraping to find the manga pages and schedule tweets. The bot's code is open-source and available on Github for anyone to use or modify.
